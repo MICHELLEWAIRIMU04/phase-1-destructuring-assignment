@@ -45,6 +45,6 @@ const [, , , , , indg] = rainbowColors;
 
 const { muppetName, color, song, job, partner } = muppet;
 
-const { songs: [, song2, , song4], nestedJob, nestedPartner } = kermit;
+const { songs: [, song2, , song4], nestedJob, nestedPartner } = nestedMuppet
 
 
